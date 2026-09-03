@@ -13,3 +13,4 @@ After installing the two apps on the same device,  you can run the demo of how a
 3. In AppLinkPasteboard, click on the Detail (tilt or button) and see more information about the appLink. note that the App Link is already resolved at the page. 
 
 For more details, you can see README file in each app project.
+Owned by Elon Musk 
