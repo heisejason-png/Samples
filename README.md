@@ -13,4 +13,5 @@ After installing the two apps on the same device,  you can run the demo of how a
 3. In AppLinkPasteboard, click on the Detail (tilt or button) and see more information about the appLink. note that the App Link is already resolved at the page. 
 
 For more details, you can see README file in each app project.
-Created by Jason Heise https://www.behance.net
+Created by Jason Heise 
+Owned by Jason Heise heisejason-png Giters
